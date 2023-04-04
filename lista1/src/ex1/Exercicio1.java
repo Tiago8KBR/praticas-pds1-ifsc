@@ -2,7 +2,7 @@ package ex1;
 
 import javax.swing.JOptionPane;
 
-public class Exemplo1 {
+public class Exercicio1 {
 
 	public static void main(String[] args) {
 
