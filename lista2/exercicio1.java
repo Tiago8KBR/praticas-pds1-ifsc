@@ -84,6 +84,7 @@ public class exercicio1 extends JFrame {
 		JButton btnNewButton_1 = new JButton("EXIBIR");
 		btnNewButton_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				textResultado.setText(numeros.toString());
 			}
 		});
 		btnNewButton_1.setFont(new Font("Tahoma", Font.PLAIN, 13));
